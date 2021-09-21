@@ -1,0 +1,13 @@
+User ID:
+sw
+Password:
+1234
+================================================
+Login time: 12-Aug-20 3:10:22 PM
+Topic(s) played: Country
+Topic(s) played: Country
+Topic(s) played: Colours
+Played 3 games during this time.
+With 0 win(s) and 3 loss(es).
+Logout time: 12-Aug-20 3:10:46 PM
+================================================

@@ -1,0 +1,156 @@
+User ID:
+qw
+Password:
+12
+================================================
+Login time: 11-Aug-20 11:08:20 AM
+Country
+Food
+Furniture
+Logout time: 11-Aug-20 11:09:18 AM
+Played 3 games during this time.
+With 1 win(s) and 2 loss(es).
+================================================
+Login time: 12-Aug-20 3:42:16 PM
+Topic(s) played: Country
+Topic(s) played: Food
+Topic(s) played: Food
+Topic(s) played: Food
+Topic(s) played: Furniture
+Topic(s) played: Furniture
+Played 6 games during this time.
+With 0 win(s) and 6 loss(es).
+Logout time: 12-Aug-20 3:43:06 PM
+================================================
+Login time: 12-Aug-20 3:43:10 PM
+Did not play despite logining in.
+Logout time: 12-Aug-20 3:43:15 PM
+================================================
+Login time: 12-Aug-20 3:59:49 PM
+Topic(s) played: Country
+Topic(s) played: Food
+Played 2 games during this time.
+With 1 win(s) and 1 loss(es).
+Logout time: 12-Aug-20 4:01:12 PM
+================================================
+Login time: 12-Aug-20 6:37:07 PM
+Topic(s) played: Country
+Topic(s) played: Country
+Topic(s) played: Country
+Played 3 games during this time.
+With 1 win(s) and 2 loss(es).
+Logout time: 12-Aug-20 6:37:32 PM
+================================================
+Login time: 12-Aug-20 6:41:10 PM
+Topic(s) played: Country
+Topic(s) played: Furniture
+Played 2 games during this time.
+With 1 win(s) and 1 loss(es).
+Logout time: 12-Aug-20 6:41:37 PM
+================================================
+Login time: 12-Aug-20 7:02:48 PM
+Did not play despite logining in.
+Logout time: 12-Aug-20 7:02:54 PM
+================================================
+Login time: 12-Aug-20 10:41:21 PM
+Login time: 12-Aug-20 10:42:08 PM
+Login time: 12-Aug-20 10:42:31 PM
+Did not play despite logining in.
+Logout time: 12-Aug-20 10:42:36 PM
+================================================
+Login time: 12-Aug-20 10:42:49 PM
+Login time: 12-Aug-20 10:44:35 PM
+Topic(s) played: Country
+Played 1 games during this time.
+With 0 win(s) and 1 loss(es).
+Logout time: 12-Aug-20 10:45:22 PM
+================================================
+Login time: 12-Aug-20 10:52:35 PM
+Did not play despite logining in.
+Logout time: 12-Aug-20 10:52:47 PM
+================================================
+Login time: 12-Aug-20 10:56:26 PM
+Topic(s) played: Colours
+Topic(s) played: Colours
+Topic(s) played: Colours
+Topic(s) played: Colours
+Played 4 games during this time.
+With 3 win(s) and 1 loss(es).
+Logout time: 12-Aug-20 10:57:22 PM
+================================================
+Login time: 14-Aug-20 11:26:44 AM
+Did not play despite logining in.
+Logout time: 14-Aug-20 11:27:15 AM
+================================================
+Login time: 14-Aug-20 11:27:51 AM
+Did not play despite logining in.
+Logout time: 14-Aug-20 11:27:57 AM
+================================================
+Login time: 14-Aug-20 11:40:32 AM
+Did not choose topic to play, and exited.
+Logout time: 14-Aug-20 11:40:33 AM
+================================================
+Login time: 14-Aug-20 11:52:49 AM
+Topic(s) played: Food
+Did not play despite logining in.
+Logout time: 14-Aug-20 11:53:14 AM
+================================================
+Login time: 14-Aug-20 12:00:32 PM
+Topic(s) played: Food
+Played 1 games during this time.
+With 1 win(s) and 0 loss(es).
+Logout time: 14-Aug-20 12:00:46 PM
+================================================
+Login time: 14-Aug-20 12:00:57 PM
+Topic(s) played: Food
+Played 1 games during this time.
+With 1 win(s) and 0 loss(es).
+Logout time: 14-Aug-20 12:01:11 PM
+================================================
+Login time: 14-Aug-20 12:05:17 PM
+Topic(s) played: Food
+Topic(s) played: Country
+Played 2 games during this time.
+With 2 win(s) and 0 loss(es).
+Logout time: 14-Aug-20 12:05:55 PM
+================================================
+Login time: 14-Aug-20 12:11:25 PM
+Topic(s) played: Colours
+Topic(s) played: Furniture
+Played 2 games during this time.
+With 2 win(s) and 0 loss(es).
+Logout time: 14-Aug-20 12:12:24 PM
+================================================
+Login time: 14-Aug-20 12:16:10 PM
+Topic(s) played: Food
+Topic(s) played: Food
+Topic(s) played: Food
+Played 3 games during this time.
+With 2 win(s) and 1 loss(es).
+Logout time: 14-Aug-20 12:17:14 PM
+================================================Login time: 14-Aug-20 12:43:17 PM
+Topic(s) played: Country
+Did not play despite logining in.
+Logout time: 14-Aug-20 12:43:27 PM
+================================================
+Login time: 14-Aug-20 12:43:51 PM
+Topic(s) played: Country
+Did not play despite logining in.
+Logout time: 14-Aug-20 12:44:24 PM
+================================================
+Login time: 14-Aug-20 12:44:31 PM
+Topic(s) played: Colours
+Did not play despite logining in.
+Logout time: 14-Aug-20 12:44:58 PM
+================================================
+Login time: 14-Aug-20 12:45:37 PM
+Topic(s) played: Colours
+Did not play despite logining in.
+Logout time: 14-Aug-20 12:45:45 PM
+================================================
+Login time: 14-Aug-20 12:45:50 PM
+Topic(s) played: Colours
+Played 1 games during this time.
+With 0 win(s) and 1 loss(es).
+Logout time: 14-Aug-20 12:46:10 PM
+================================================
