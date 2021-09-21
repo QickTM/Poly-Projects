@@ -1,0 +1,25 @@
+User ID:
+asdf
+Password:
+1234
+================================================
+Login time: 08-Aug-20 1:17:23 PM
+Logout time: 08-Aug-20 1:17:26 PM
+Played 1 games during this time.
+With 0 win(s) and 0 loss(es).
+================================================
+Login time: 11-Aug-20 10:25:51 AM
+Logout time: 11-Aug-20 10:27:03 AM
+Played 2 games during this time.
+With 1 win(s) and 1 loss(es).
+================================================
+Login time: 12-Aug-20 6:42:15 PM
+Topic(s) played: Country
+Topic(s) played: Country
+Topic(s) played: Country
+Topic(s) played: Country
+Topic(s) played: Country
+Played 5 games during this time.
+With 4 win(s) and 1 loss(es).
+Logout time: 12-Aug-20 6:43:23 PM
+================================================
