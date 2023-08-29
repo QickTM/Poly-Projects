@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">S10195575MP2_P2A5</string>
+    <string-array name="array_category">
+        <item>Food</item>
+        <item>Shopping</item>
+        <item>Games</item>
+        <item>Groceries</item>
+        <item>Taxes</item>
+    </string-array>
+</resources>
